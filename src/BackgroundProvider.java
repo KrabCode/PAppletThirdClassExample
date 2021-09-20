@@ -1,5 +1,7 @@
 import processing.core.PGraphics;
 
+// this class is hidden from MySketch and only used through MyApplet
+
 public class BackgroundProvider {
     MyApplet m;
     PGraphics pg;
